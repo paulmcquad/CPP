@@ -17,6 +17,5 @@ int main(int argc, char *argv[]) {
  /* as can slash-star comments */
 
  return 0;
-
 }
 
