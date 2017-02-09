@@ -25,13 +25,12 @@ int main(int argc, char *argv[]){
                << " doubled: " << result << "\n\n";
 
      return 0;
- }
+}
 
- int Doubler(int original)
- {
+ int Doubler(int original) {
      if (original <= 10000)
          return original * 2;
      else
          return -1;
      cout << "You can't get here!\n";
- }
+}

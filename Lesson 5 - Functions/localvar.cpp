@@ -3,14 +3,10 @@ using namespace std;
  
 float Convert(float);
 
- 
-
 int main(int argc, char *argv[]){
 
      float TempFer;
      float TempCel;
-
- 
 
      cout << "Please enter the temperature in Fahrenheit: ";
      cin >> TempFer;
@@ -20,7 +16,7 @@ int main(int argc, char *argv[]){
      cout << TempCel << endl;
 
      return 0;
- }
+}
 
  
 
