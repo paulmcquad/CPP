@@ -21,7 +21,7 @@ class CAT
  
 CAT::CAT(){
 
-     itsAge	= new int;
+     itsAge = new int;
      itsWeight = new int;
 
      *itsAge = 5;
